@@ -17,7 +17,13 @@
    cd test3
    ```
 
-2. Start the Django development server:
+2. Activate venv
+
+   ```
+   source venv/bin/activate
+   ```
+
+3. Start the Django development server:
 
    ```
    python manage.py runserver
@@ -25,19 +31,19 @@
 
    By default, this will start the server on `http://127.0.0.1:8000/`
 
-3. From new terminal navigate to frontend
+4. From new terminal navigate to frontend
 
    ```
    cd test3/app
    ```
 
-4. Install npm packages
+5. Install npm packages
 
    ```
    npm i
    ```
 
-5. Install npm packages
+6. Install npm packages
 
    ```
    npm run serve
