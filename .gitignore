@@ -1,0 +1,11 @@
+venv
+*.sqlite3
+*.pyc
+node_modules
+*.log
+*.txt
+*.json
+*.csv
+*.xml
+*.env
+__pycache__
